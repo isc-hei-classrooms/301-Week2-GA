@@ -60,7 +60,7 @@ Consider the following questions and provide **direct** answers to them in your 
 
 ## Expected Outcomes:
 To be submitted via GitHub Classroom:
-- A **short presentation** (5-10 slides max) of the main steps of a Genetic Algorithm (GA) and how you implemented them in your code (see the [Understanding Genetic Algorithms](#understanding-genetic-algorithms) section). You will prepare this presentation in group 2 people and present it to the class. *The prof. will choose randomly 2 groups to present*.
+- A **short presentation** (5-10 slides max) of the main steps of a Genetic Algorithm (GA) and how you implemented them in your code (see the [Understanding Genetic Algorithms](#understanding-genetic-algorithms) section). You will prepare this presentation in groups of 2 people and present it to the class. *The prof. will choose randomly 2 groups to present*.
 - A GitHub repository containing:
   - A Jupyter notebook for the optimization of a simple problem.
   - In your notebook, systematically use markdown cells to:
