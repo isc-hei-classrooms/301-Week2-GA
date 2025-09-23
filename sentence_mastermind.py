@@ -91,7 +91,7 @@ class SentenceMastermind:
             # print("Guess is not a string:", guess)
             guess = ''.join(guess)
             
-        guess.lower()
+        guess = guess.lower()
         # print("guess", guess)
         # print("hidden sentence", self.sentence)
         for i in range(self.sentence_length):
