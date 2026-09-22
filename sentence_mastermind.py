@@ -17,7 +17,8 @@ class SentenceMastermind:
 
     def set_sentence_from_file(self):
         """
-        Set the sentence attribute to a random sentence from the file proverbs.txt.
+        Set the sentence to be guessed.
+        Set the (hidden) sentence attribute to a random sentence from the file proverbs.txt.
         The file contains one sentence per line.
         Sentences starting with '#' or empty lines are ignored.
         """
@@ -31,7 +32,8 @@ class SentenceMastermind:
             
     def set_sentence_user(self, sentence):
         """
-        Set the sentence attribute to a user-provided sentence.
+        Set the sentence to be guessed.
+        Set the (hidden) sentence attribute to a user-provided sentence.
         Also, update the length of the sentence.
         """
         self.sentence = sentence.lower()
